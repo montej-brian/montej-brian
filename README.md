@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm **MONTEJ** — Tech Visionary | Creator | Builder  
+#  Hey there, I'm **MONTEJ** — Tech Visionary | Creator | Builder  
 
 
 Welcome to my digital playground — where innovation meets impact.  
@@ -9,7 +9,7 @@ From building next-gen web apps to empowering youth through tech, I’m all abou
 
 ##  What I Do
 
-💡 **Full Stack Development**  
+ **Full Stack Development**  
 > Crafting sleek, scalable web platforms using React, Node.js, Express, and MongoDB.
 
  **Creative Tech & Design**  
@@ -75,5 +75,3 @@ From building next-gen web apps to empowering youth through tech, I’m all abou
 
 ###  Vision | Innovation | Empowerment | Legacy  
 > “We’re not waiting for the future — we’re building it.”
-
- *Made with pride from Kuria, Kenya *
